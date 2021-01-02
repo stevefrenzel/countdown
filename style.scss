@@ -17,7 +17,14 @@ body {
   text-align: center;
 }
 
+.wrapper {
+  max-width: 120rem;
+}
+
 #countdown {
   margin-top: 5%;
   font-size: 3rem;
+  background-color: #fff;
+  color: #000;
+  border-radius: 5px;
 }
